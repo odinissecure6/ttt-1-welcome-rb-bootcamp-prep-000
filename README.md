@@ -37,7 +37,6 @@ The solution to this is to make sure you have `puts "Welcome to Tic Tac Toe!"` i
 
 **Hint: Make sure you've saved `lib/welcome.rb`.**
 
-puts "Welcome to Tic Tac Toe!"
 
 ### 2. Make sure you're printing "Welcome to Tic Tac Toe!" exactly.
 
